@@ -1,0 +1,23 @@
+[
+  {
+    "package": "tanmisc",
+    "url": "https://github.com/tanho63/tanmisc"
+  },
+  {
+    "package" : "joker",
+    "url" : "https://github.com/tanho63/joker"
+  },
+  {
+    "package": "ffscrapr",
+    "url": "https://github.com/dynastyprocess/ffscrapr",
+    "branch": "dev"
+  },
+  {
+    "package": "fpscrapr",
+    "url": "https://github.com/dynastyprocess/fpscrapr"
+  },
+  {
+    "package": "ffexpectedpoints",
+    "url": "https://github.com/dynastyprocess/ffexpectedpoints"
+  }
+]
