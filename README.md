@@ -1,2 +1,2 @@
 # universe
-powers https://tanho63.r-universe.dev
+Powers https://tanho63.r-universe.dev
