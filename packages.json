@@ -9,8 +9,7 @@
   },
   {
     "package": "ffscrapr",
-    "url": "https://github.com/dynastyprocess/ffscrapr",
-    "branch": "dev"
+    "url": "https://github.com/ffverse/ffscrapr"
   },
   {
     "package": "ffpros",
