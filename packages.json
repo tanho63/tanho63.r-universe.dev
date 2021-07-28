@@ -6,24 +6,5 @@
   {
     "package" : "joker",
     "url" : "https://github.com/tanho63/joker"
-  },
-  {
-    "package": "ffscrapr",
-    "url": "https://github.com/ffverse/ffscrapr"
-  },
-  {
-    "package": "ffpros",
-    "url": "https://github.com/ffverse/ffpros"
-  },
-  {
-    "package": "ffexpectedpoints",
-    "url": "https://github.com/ffverse/ffexpectedpoints"
-  },
-  {
-    "package": "ffsimulator",
-    "url": "https://github.com/ffverse/ffsimulator"},
-  {
-    "package": "usetheprocess",
-    "url": "https://github.com/dynastyprocess/usetheprocess"
   }
-]
+  ]
