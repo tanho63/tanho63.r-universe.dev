@@ -6,5 +6,9 @@
   {
     "package" : "joker",
     "url" : "https://github.com/tanho63/joker"
+  },
+  {
+    "package" : "fivestars",
+    "url" : "https://github.com/tanho63/fivestars"
   }
   ]
