@@ -10,5 +10,9 @@
   {
     "package" : "fivestars",
     "url" : "https://github.com/tanho63/fivestars"
+  },
+  {
+    "package" : "aoc.elf",
+    "url" : "https://github.com/tanho63/aoc.elf"
   }
   ]
