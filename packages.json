@@ -14,5 +14,18 @@
   {
     "package" : "aoc.elf",
     "url" : "https://github.com/tanho63/aoc.elf"
+  },
+  {
+    "package" : "mobileCharts",
+    "url" : "https://github.com/tanho63/mobileCharts"
+  },
+  {
+    "package" : "shinyMobile",
+    "url" : "https://github.com/tanho63/shinyMobile",
+    "ref" : "rc-1.0.0"
+  },
+  {
+    "package" : "glouton",
+    "url" : "https://github.com/tanho63/glouton"
   }
   ]
